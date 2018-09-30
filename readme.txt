@@ -1,2 +1,2 @@
-day01 - ÅÙ¼­ÇÃ·Î¿ì Æ©Åä¸®¾ó D:\OpenDEV\MachineLearning\myTensorflowTutorial
+day01 - í…ì„œí”„ë¡œíŠœí† ë¦¬ì–¼  D:\OpenDEV\MachineLearning\myTensorflowTutorial
 
